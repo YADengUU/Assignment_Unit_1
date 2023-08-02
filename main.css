@@ -14,7 +14,9 @@ body {
     box-sizing: border-box;
     width: 100%;
     max-width: 540px;
-    background: #fff;
+    /* background: #fff; */
+    opacity: 0.8;
+    box-shadow: 1px 1px 20px 0px #fff;
     margin: 100px auto 20px;
     padding: 40px 20px 70px;
     border-radius: 10px;
