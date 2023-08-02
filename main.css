@@ -6,7 +6,7 @@
 body {
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(135deg, #157761, #15085f);
+    background: linear-gradient(135deg, #153677, #4e085f);
     padding: 10px;
 }
 
@@ -54,7 +54,7 @@ button {
     border: none;
     outline: npne;
     padding: 16px 40px;
-    background: #31c3af;
+    background: #ff5945;
     color: #fff;
     font-size: 16px;
     cursor: pointer;
@@ -89,7 +89,7 @@ ul li.checked {
 }
 
 ul li.checked::before {
-    background-image: url(./images/checked1.png);
+    background-image: url(./images/checked.png);
 
 }
 
