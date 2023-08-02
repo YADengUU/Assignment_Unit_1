@@ -54,7 +54,7 @@ button {
     border: none;
     outline: npne;
     padding: 16px 40px;
-    background: #ff5945;
+    background: #31c3af;
     color: #fff;
     font-size: 16px;
     cursor: pointer;
@@ -89,7 +89,7 @@ ul li.checked {
 }
 
 ul li.checked::before {
-    background-image: url(./images/checked.png);
+    background-image: url(./images/checked1.png);
 
 }
 
